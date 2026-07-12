@@ -1,9 +1,9 @@
 {
   "type": "apk",
-  "version": "1.3.0",
-  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-1.3.0-debug.apk",
-  "minNativeVersion": 3,
-  "nativeVersion": 3,
+  "version": "2.0.0",
+  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-2.0.0.apk",
+  "minNativeVersion": 1,
+  "nativeVersion": 1,
   "mandatory": false,
   "notes": "Nueva version disponible."
 }
