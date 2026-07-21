@@ -1,9 +1,8 @@
 {
-  "type": "apk",
-  "version": "2.4.0",
-  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-2.4.0.apk",
+  "type": "ota",
+  "version": "2.4.1",
+  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-web-2.4.1.zip",
   "minNativeVersion": 4,
-  "nativeVersion": 4,
   "mandatory": false,
   "notes": "Nueva version disponible."
 }
