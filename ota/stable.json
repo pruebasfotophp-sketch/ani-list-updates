@@ -1,9 +1,9 @@
 {
   "type": "ota",
-  "version": "2.5.2",
-  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-web-2.5.2.zip",
+  "version": "2.5.3",
+  "url": "https://pruebasfotophp-sketch.github.io/ani-list-updates/ota/bundles/ani-list-web-2.5.3.zip",
   "minNativeVersion": 5,
   "nativeVersion": 5,
   "mandatory": false,
-  "notes": "Nueva version disponible 2.5.2"
+  "notes": "Nueva version disponible 2.5.3"
 }
